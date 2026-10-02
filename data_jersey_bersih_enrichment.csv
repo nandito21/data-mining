@@ -1,0 +1,26 @@
+ID,Tanggal_Transaksi,Jenis_Jersey,Ukuran_Jersey,Jumlah_Terjual,Harga,Total_Penjualan,Total_Dikoreksi,Valid_Tanggal,Valid_Jenis,Valid_Ukuran,Valid_Jumlah,Valid_Harga,Masalah,Hari,Minggu_Ke,Kategori_Jumlah,Kelompok_Ukuran,Tipe_Jersey
+1,2026-09-01,Jersey Polos,M,10,85000,850000,False,True,True,True,True,True,,Selasa,36,Besar,Kecil,Standar
+2,2026-09-01,Jersey Polos,M,5,85000,425000,False,True,True,True,True,True,,Selasa,36,Sedang,Kecil,Standar
+3,2026-09-01,Jersey Printing,L,12,110000,1320000,False,True,True,True,True,True,,Selasa,36,Besar,Besar,Custom
+4,2026-09-02,Jersey Sublimasi,XL,6,135000,810000,False,True,True,True,True,True,,Rabu,36,Sedang,Besar,Custom
+5,2026-09-02,Jersey Full Print,L,4,150000,600000,False,True,True,True,True,True,,Rabu,36,Sedang,Besar,Custom
+6,2026-09-02,Jersey Kiper,S,2,125000,250000,False,True,True,True,True,True,,Rabu,36,Kecil,Kecil,Khusus
+7,2026-09-02,Jersey Polos,M,8,85000,680000,False,True,True,True,True,True,,Rabu,36,Besar,Kecil,Standar
+8,2026-09-03,Jersey Printing,XXL,3,110000,330000,False,True,True,True,True,True,,Kamis,36,Kecil,Besar,Custom
+9,2026-09-03,Jersey Sublimasi,L,7,135000,945000,False,True,True,True,True,True,,Kamis,36,Sedang,Besar,Custom
+10,2026-09-03,Jersey Polos,M,6,85000,510000,False,True,True,True,True,True,,Kamis,36,Sedang,Kecil,Standar
+11,2026-09-04,Jersey Full Print,L,5,150000,750000,False,True,True,True,True,True,,Jumat,36,Sedang,Besar,Custom
+12,2026-09-04,Jersey Polos,M,5,85000,425000,False,True,True,True,True,True,,Jumat,36,Sedang,Kecil,Standar
+13,2026-09-04,Jersey Kiper,XL,3,125000,375000,True,True,True,True,True,True,,Jumat,36,Kecil,Besar,Khusus
+14,2026-09-05,Jersey Printing,XL,7,110000,770000,False,True,True,True,True,True,,Sabtu,36,Sedang,Besar,Custom
+15,2026-09-05,Jersey Full Print,M,9,150000,1350000,False,True,True,True,True,True,,Sabtu,36,Besar,Kecil,Custom
+16,2026-09-05,Jersey Sublimasi,L,5,135000,675000,False,True,True,True,True,True,,Sabtu,36,Sedang,Besar,Custom
+17,2026-09-06,Jersey Polos,S,4,85000,340000,False,True,True,True,True,True,,Minggu,36,Sedang,Kecil,Standar
+20,2026-09-07,Jersey Sublimasi,XXL,2,135000,270000,False,True,True,True,True,True,,Senin,37,Kecil,Besar,Custom
+21,2026-09-07,Jersey Polos,M,6,85000,510000,False,True,True,True,True,True,,Senin,37,Sedang,Kecil,Standar
+23,2026-09-07,Jersey Full Print,XL,5,150000,750000,True,True,True,True,True,True,,Senin,37,Sedang,Besar,Custom
+26,2026-09-08,Jersey Polos,Tidak Diketahui,5,85000,425000,False,True,True,True,True,True,,Selasa,37,Sedang,Tidak Diketahui,Standar
+28,2026-09-09,Jersey Sublimasi,L,3,135000,405000,False,True,True,True,True,True,,Rabu,37,Kecil,Besar,Custom
+29,2026-09-09,Jersey Polos,L,5,85000,425000,False,True,True,True,True,True,,Rabu,37,Sedang,Besar,Standar
+30,2026-09-10,Jersey Kiper,M,6,125000,750000,False,True,True,True,True,True,,Kamis,37,Sedang,Kecil,Khusus
+32,2026-09-11,Jersey Full Print,L,4,150000,600000,False,True,True,True,True,True,,Jumat,37,Sedang,Besar,Custom
